@@ -11,7 +11,7 @@ Before running the script, you need to obtain an API key from [News API](https:/
 1. Clone or download this repository.
 
 ```bash
-git clone https://github.com/yourusername/news-fetcher.git
+git clone https://github.com/abdullahguch/news-fetcher.git
 ```
 
 2. Install the required Python packages.
